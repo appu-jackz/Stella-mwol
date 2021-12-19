@@ -1,4 +1,4 @@
-/* Copyright (c) Yusuf Usta & souravkl11
+/* Copyright (c) Yusuf Usta 
 Licenced under GNU
 Copying strictly proibited!
 */
@@ -18,9 +18,9 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v3.0.0',
     CHANNEL: 'undefined',
-    SESSION: process.env.RAGANORK_CODE === undefined ? '' : process.env.RAGANORK_CODE,
+    SESSION: process.env.Stella_CODE === undefined ? '' : process.env.Stella_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
-    AFN: process.env.ALL_CAPTION === undefined ? '*MADE BY YOUR BOT NAME*' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? '*MADE BY Sᴛᴇʟʟᴀ Mᴡᴏʟ 💕*' : process.env.ALL_CAPTION,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     ANTI_KICK: process.env.ANTI_KICK === undefined ? 'false' : process.env.ANTI_KICK,
     CALL_BLOCK: process.env.CALL_BLOCK === undefined ? 'false' : process.env.CALL_BLOCK,
@@ -36,9 +36,9 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    PLK: process.env.OWNER_NAME === undefined ? 'sᴏᴜʀᴀᴠᴋʟ¹¹' : process.env.OWNER_NAME,
-    SONGD: process.env.SONGD === undefined ? '𝙎𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙨𝙤𝙣𝙜... 🔍' : process.env.SONGD,
-    SONGU: process.env.SONGU === undefined ? '𝙎𝙤𝙣𝙜 𝙛𝙤𝙪𝙣𝙙! 𝙐𝙥𝙡𝙤𝙖𝙙𝙞𝙣𝙜... ⏫' : process.env.SONGU,
+    PLK: process.env.OWNER_NAME === undefined ? ''𝐀𝐩𝐩𝐮 𝐉𝐚𝐜𝐤𝐙 : process.env.OWNER_NAME,
+    SONGD: process.env.SONGD === undefined ? 'Sᴏɴɢ Tʜᴀᴘᴘᴀᴛᴇ... 🔍' : process.env.SONGD,
+    SONGU: process.env.SONGU === undefined ? ''𝐒𝐨𝐧𝐠 𝐊𝐢𝐭𝐭𝐢 𝐢𝐩𝐩𝐨 𝐭𝐡𝐚𝐫𝐚𝐯𝐞 🎧 : process.env.SONGU,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? true : convertToBool(process.env.AUTO_STICKER),
@@ -46,14 +46,14 @@ module.exports = {
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     CHATBOT: process.env.CHAT_BOT === undefined ? 'false' : process.env.CHAT_BOT,
-    BOTSK: process.env.BOT_NAME === undefined ? 'PUBLIC BOT' : process.env.BOT_NAME,
-    SUPPORT: process.env.ASENA === undefined ? '919074309534-1632403322' : process.env.ASENA,
+    BOTSK: process.env.BOT_NAME === undefined ? 'Sᴛᴇʟʟᴀ Mᴡᴏʟ💕' : process.env.BOT_NAME,
+    SUPPORT: process.env.ASENA === undefined ? '919072593964-918075641889' : process.env.ASENA,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://c.tenor.com/G9Bu13ZlhVkAAAPo/dancing-funny-dance.mp4' : process.env.GIF_WEL,
     SLINK: process.env.IG === undefined ? 'instagram.com/sourav_kl11' : process.env.IG,
     JID: process.env.VERIFIED === undefined ? '0@s.whatsapp.net' : process.env.VERIFIED,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://c.tenor.com/6tlIWiAlT_gAAAPo/cat-impressed-cat-wow.mp4' : process.env.GIF_BYE,
-    LOGOSK: process.env.ALL_IMG === undefined ? 'https://www.linkpicture.com/q/rgnk.jpg' : process.env.ALL_IMG,
-    SKDL: process.env.DIALOGUE === undefined ? '❤️‍🔥 𝗞𝗜𝗟𝗟𝗔𝗗𝗜𝗦𝗠 𝗡𝗘𝗩𝗘𝗥 𝗘𝗡𝗗𝗦 ❤️‍🔥' : process.env.DIALOGUE,
+    LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.imgur.com/qMUAgI9.jpeg' : process.env.ALL_IMG,
+    SKDL: process.env.DIALOGUE === undefined ? '𝗞𝗜𝗟𝗟𝗔𝗗𝗜𝗦𝗠 𝗡𝗘𝗩𝗘𝗥 𝗘𝗡𝗗𝗦 ❤️‍🔥' : process.env.DIALOGUE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
     SOURAV: process.env.SK_BLOCK === undefined ? 'false' : process.env.SK_BLOCK,
