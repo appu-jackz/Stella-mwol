@@ -67,7 +67,7 @@ the user is responsible..
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BLAICN/Stella-mwol#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Pranavk6/Stellas-QR-Code?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template==https://github.com/ajuser001/Ajuser)
      </div>
