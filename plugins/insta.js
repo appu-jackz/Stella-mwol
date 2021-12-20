@@ -8,7 +8,7 @@ const insta = require('../insta_scrap');
 const Config = require('../config');
 const need = "*_Need instagram link!_*";
 const need_acc = "*_Need an instagram username!_*";
-const need_acc_s = "*_Need an instagram username and story count!_* \n ```Example: \n .story dqsalmaan/4```";
+const need_acc_s = "*_Need an instagram username and story count!_* \n ```Example: \n .story stella_mwol/4```";
 let sourav = setting.WORKTYPE == 'public' ? false : true
 skl.addCommand({ pattern: 'insta ?(.*)', fromMe: sourav,dontAddCommandList: true }, (async (msg, query) => {
     if (query[1] === '') return await msg.client.sendMessage(msg.jid, need, MessageType.text, {quoted: msg.data});
