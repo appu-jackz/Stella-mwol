@@ -1,7 +1,7 @@
 {
     "name": "Stella-Mwol",
     "description": "Stella mwol - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "logo": "https://i.imgur.com/P4SX8E7.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Stella", "WhatsAsena", "Mwol", "api", "ai"],
     "repository": "https://github.com/appu-jackz/Stella-mwol",
     "website":   "https://bit.ly/Raganork",
@@ -29,17 +29,17 @@
         "ALL_IMG": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
+            "value": "https://i.imgur.com/P4SX8E7.jpeg"
         },
         "DIALOGUE": {
-            "description": "Give an image link for your bot!",
+            "description": "Give a dialogue for the bot visible in menu cmnds",
             "required": true,
-            "value": "Killadism never ends! (Change this)"
+            "value": "Stella mwol created by Jackz ser and appu ser! (Change this)"
         },
         "ALL_CAPTION": {
             "description": "Give your caption here. Example: Made by Stella mwol💕.",
             "required": true,
-            "value": "*YOUR CAPTION HERE*"
+            "value": "*MADE BY STELLA MWOL*"
         },
         "VERIFIED": {
             "description": "Jid given above the verified tick. Use 0 for official WhatsApp",
@@ -66,7 +66,7 @@
             "value": "919074309534"
         },
         "WORK_TYPE": {
-            "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Stella mwok Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -81,17 +81,17 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "BOT IS CURRENTLY RUNNING WITH NO ERRORS!"
+            "value": "STELLA MWOL IS ALIVE!"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
             "value": "_See you later!_"
         },
-        "SONGD": {
+        "SONGU": {
             "description": "Customizable song uploading message!",
             "required": false,
-            "value": "_Uploading song.._"
+            "value": "_Stella mwol uploading song.._"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
@@ -101,17 +101,17 @@
         "SONGD": {
             "description": "Customizable song downloading message!",
             "required": true,
-            "value": "_Searching song.._"
+            "value": "_Stella mwol searching song.._"
         },
         "ALL_NUMBER": {
             "description": "Type your number here",
             "required": false,
-            "value": "wa.me/919074309534"
+            "value": "wa.me/918075641889"
         },
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
             "required": true,
-            "value": "Type antything here"
+            "value": "Stella mwol"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
@@ -124,19 +124,19 @@
             "value": "https://instagram.com/username"
         },
         "OWNER_NAME": {
-            "description": "Owner name used in many commands! Type your name here.",
+            "description": "Owner name used in many commands! Type your name here.(change)",
             "required": false,
-            "value": "𝗢𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲 𝗵𝗲𝗿𝗲"
+            "value": "APPU AND JACKZ"
         },
         "TAG_HEADER": {
-            "description": "Owner name used in many commands! Type your name here.",
+            "description": "Tagging message.",
             "required": false,
             "value": "*Hear me friends!*"
         },   
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false,    
-            "value": "916282344739@s.whatsapp.net"
+            "value": "918075641889@s.whatsapp.net"
         },
         "ANTI_FAKE": {
             "description": "Fake number auto remover (Except Indian numbers)! Give true for activating!",
@@ -144,9 +144,9 @@
             "value": "true"
         },
         "BOT_NAME": {
-            "description": "Your bot's name. This is very important!",
+            "description": "Your bot's name. This is very important!(change)",
             "required": false,
-            "value": "𝓑𝓞𝓣 𝓝𝓐𝓜𝓔 𝓗𝓔𝓡𝓔"
+            "value": "STELLA MWOL"
              
         }
     },
