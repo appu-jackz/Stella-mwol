@@ -1,4 +1,4 @@
-FROM souravkl11/raganork:test
+FROM appu-jackz/Stellamwol:test
 
 RUN git clone https://github.com/appu-jackz/Stella-mwol/ /skl/raganork
 WORKDIR /skl/raganork 
