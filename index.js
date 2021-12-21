@@ -7,7 +7,7 @@ const start = require('./data');
 const Sourav = require('./config');
 const Config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./Raganork/');
+const {Message, StringSession, Image, Video} = require('./Stellamwol/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const simpleGit = require('simple-git');
@@ -18,7 +18,7 @@ const Language = require('./language');
 const Lang = Language.getString('updater');
 
 // Sql
-const DATABASE = Sourav.DATABASE.define('Raganork', {
+const DATABASE = Sourav.DATABASE.define('Stellamwol', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
