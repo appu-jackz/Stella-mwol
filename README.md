@@ -16,7 +16,7 @@
 <a href="#"><img title="NEERAJ" src="https://img.shields.io/badge/Appu Ser And JACKS SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <p align="center">
-<a href="https://github.com/Stella-mwol"><img title="Author" src="https://img.shields.io/badge/Author-Appu ser and Jackz Ser/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Appu-ser"><img title="Author" src="https://img.shields.io/badge/Author-Appu ser and Jackz Ser/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 
