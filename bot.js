@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Ajuser bot working aan😎!')
+            chalk.green.bold('✅ Stella mwol working aan!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '* Stella mwol WORKING AYI😜*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '* Stella mwol WORKING AYI😜*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Stella mwol BOT WORKING AYI😜*', MessageType.text);
                 }
             }
         }
@@ -391,7 +391,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~Ajuser~*' +
+                                await conn.sendMessage(conn.user.jid, '*~Stella-mwol~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥲 errors\njoin with \n https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO``` ' 
                                     , MessageType.text);
                             }
